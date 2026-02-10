@@ -80,4 +80,3 @@ Demonstrated practical application of machine learning in environmental risk ana
 
 This project showcases end-to-end data analysis and machine learning workflow, from EDA and preprocessing to model building and evaluation, highlighting the use of data-driven techniques for environmental safety and decision-making.
 
-📌 Future Improvements
