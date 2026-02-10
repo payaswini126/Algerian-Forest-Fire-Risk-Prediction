@@ -1,4 +1,5 @@
 Algerian Forest Fire Risk Prediction
+
 📌 Project Overview
 
 This project focuses on predicting forest fire risk using meteorological data from the Algerian Forest Fires dataset. The goal is to analyze weather conditions and Fire Weather Index (FWI) components to identify high-risk fire scenarios using machine learning techniques.
